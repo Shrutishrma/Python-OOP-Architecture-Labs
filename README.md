@@ -26,7 +26,6 @@ Python-OOP-Architecture-Labs/
 ├── game asset management system.ipynb  # Interactive game inventory logic
 ├── vehicle allotement.ipynb            # Fleet categorization and inheritance
 ├── OOPs.ipynb                          # Employee management and polymorphism
-└── Python Lab/                         # Additional foundational exercises and weekly activities
 ```
 3.  **Execution:**
     * Launch the Jupyter environment from your terminal:
